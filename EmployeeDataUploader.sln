@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDataUploader", "EmployeeDataUploader.csproj", "{67FA3C6E-18C1-4D1A-A622-DC8A18568A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FA3C6E-18C1-4D1A-A622-DC8A18568A3C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{67FA3C6E-18C1-4D1A-A622-DC8A18568A3C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{67FA3C6E-18C1-4D1A-A622-DC8A18568A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FA3C6E-18C1-4D1A-A622-DC8A18568A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5321A1-E43D-4779-B135-DC5C8839F106}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oIES4OWZEwWV/L9fA3shk+8GclyClfZJUFTd81qwF5i3xj8gXz0tkzC/iZdk56dWDg/FQtMcRKSijUf0nXPUoQ==",
+  "success": true,
+  "projectFilePath": "D:\\EmployeeDataUploader\\EmployeeDataUploader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jou\\.nuget\\packages\\epplus\\6.2.0\\epplus.6.2.0.nupkg.sha512",
+    "C:\\Users\\jou\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
+    "C:\\Users\\jou\\.nuget\\packages\\epplus.system.drawing\\6.1.1\\epplus.system.drawing.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
